@@ -21,6 +21,9 @@ jobs:
         java-version: '8'
         distribution: 'temurin'
     
+    - name: Fix Gradle Wrapper
+      run: python3 fix-wrapper.py
+    
     - name: Make gradlew executable
       run: chmod +x gradlew
     
