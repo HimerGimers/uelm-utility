@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "uelmutility",
+    "name": "Uelm Utility",
+    "description": "Auto replants wheat with a configurable delay (ticks or milliseconds), stops you from breaking ungrown wheat, and auto fishes. Open the config with Right Shift (rebindable in Controls).",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["uelm"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
